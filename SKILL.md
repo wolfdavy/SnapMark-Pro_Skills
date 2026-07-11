@@ -1,5 +1,5 @@
 ---
-name: snapshot
+name: snapmark
 
 description: |
 从截图、图片、聊天截图、微信截图、Teams截图、飞书截图、PPT截图、Word截图、Excel截图、代码截图、网页截图中无损提取正文内容。
@@ -68,7 +68,7 @@ description: |
 
 ---
 
-# Snapshot
+# SnapMark
 
 ## 目标
 
@@ -198,7 +198,7 @@ def hello_world():
 ---
 
 
-## Snapshot-Strict 模式
+## SnapMark-Strict 模式
 
 出现以下场景自动启用：
 
